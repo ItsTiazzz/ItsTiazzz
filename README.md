@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @TywrapStudios
 - 👀 I’m interested in Modding Minecraft and playing it
-- 🌱 I’m currently learning a lot of stuff related to Minecraft Fabric 1.19
+- 🌱 I’m currently learning a lot of stuff related to Minecraft Fabric and developing Discord Bots using discord.py
 - 📫 How to reach me: You can join my Discord server (https://discord.gg/kcm8scfCwK) and then maybe just DM me on Discord, anything works!
-- 😄 Pronouns: she/her :D
+- 😄 Pronouns: any :D
 - ⚡ Fun fact: I am a few clicks and typos away from funny modding stuff heh.
 
 <!---
