@@ -6,5 +6,5 @@
 - 😄 Pronouns: Any, I really don't care :D
 - Head Minecraft Server Admin [@CordCraft](https://discord.gg/gunjicordia-1133093958889787475).  
 ## GitHub Stats:  
-![Tywrap's GitHub stats](https://github-readme-stats.vercel.app/api?username=TywrapStudios&show_icons=true&theme=dracula)
-![Tywrap's GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=TywrapStudios&theme=dark)
+![Tywrap's GitHub stats Vercel](https://github-readme-stats.vercel.app/api?username=TywrapStudios&show_icons=true&theme=dracula)
+![Tywrap's GitHub stats Heroku](https://github-readme-streak-stats.herokuapp.com/?user=TywrapStudios&theme=dark)
