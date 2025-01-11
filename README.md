@@ -14,5 +14,5 @@ I am the proud founder of Tywrap Studios, which you should probably look at if y
 - Tywrap Studios GitHub Org: https://www.github.com/Tywrap-Studios  
 - CordCraft Discord Server (I serve as Head of Administration there): https://discord.gg/ZjvKRpPHEf  
 ## Boring GitHub Stats
-![Tywrap's GitHub stats Vercel](https://github-readme-stats.vercel.app/api?username=TywrapStudios&show_icons=true&theme=dracula)
-![Tywrap's GitHub stats Heroku](https://github-readme-streak-stats.herokuapp.com/?user=TywrapStudios&theme=dark)
+![Tywrap's GitHub stats Vercel](https://github-readme-stats.vercel.app/api?username=ItsTiazzz&show_icons=true&theme=dracula)
+![Tywrap's GitHub stats Heroku](https://github-readme-streak-stats.herokuapp.com/?user=ItsTiazzz&theme=dark)
