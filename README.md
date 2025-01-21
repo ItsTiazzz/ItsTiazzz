@@ -1,6 +1,6 @@
 ## Main Part
 ### About me:
-Hi, I’m @TywrapStudios on GitHub, more often called Tiazzz though, which I prefer to be called as an individual.  
+Hi, I’m @ItsTiazzz on GitHub, more often called Tiazzz though, which I prefer to be called as an individual.  
 I am the proud founder of Tywrap Studios, which you should probably look at if you want to see Repos/Projects I actually commit to and work on.  
 ### Have some more:
 - Mostly interested in Modding Minecraft and playing it.
